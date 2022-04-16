@@ -1,2 +1,2 @@
 # Studying
-Studying notebooks
+🌟✨ Notebooks and insights 🌟✨
