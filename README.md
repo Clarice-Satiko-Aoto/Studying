@@ -1,2 +1,2 @@
-#  Passive Agressive Classifier
+#  Studying Python
 🌟✨ Notebooks and insights 🌟✨
